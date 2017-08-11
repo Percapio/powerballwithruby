@@ -18,7 +18,7 @@ Currently, this project requires the user to save a CSV file in the project fold
 ### Installing
 
 ```
-git clone https://github.com/
+git clone https://github.com/percapio/powerballwithruby
 ```
 ## Running the tests
 
